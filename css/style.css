@@ -25,3 +25,15 @@ header span {
 
 .testo-header {
 line-height: 0;}
+
+.photo span {
+  font-size: 12px;
+}
+
+.article span {
+  background:#FFFF00;
+}
+
+.article ul {
+  padding-left: 10px;
+}
