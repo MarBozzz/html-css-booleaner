@@ -1,0 +1,27 @@
+.banner-header {
+  background-image:url('../img/pattern.png');
+  background-color: #4EA0FF;
+  width: 100%;
+  text-align: bottom;
+}
+
+#logo {
+  width: 200px;
+  height: 160px;
+}
+
+header p {
+  color: #7D7D7D;
+  font-size: 16px;
+}
+
+header span {
+  color: #37B2E8;
+}
+
+#data {
+  font-size: 12px;
+}
+
+.testo-header {
+line-height: 0;}
